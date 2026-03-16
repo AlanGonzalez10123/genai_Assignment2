@@ -1,0 +1,510 @@
+{
+  "model": "lstm_codet5_summarization",
+  "test_samples": 99,
+  "metrics": {
+    "BLEU-1": 16.5685,
+    "BLEU-2": 7.3296,
+    "BLEU-3": 2.7152,
+    "BLEU-4": 0.949,
+    "METEOR": 0.1203,
+    "BERTScore_F1": 0.8471,
+    "SIDE": 0.3052
+  },
+  "predictions": [
+    {
+      "id": 0,
+      "reference": "concatenate two string arrays into one.",
+      "predicted": "returns the next number of the given array array."
+    },
+    {
+      "id": 1,
+      "reference": "return true if the contents of the internal array bytes and the provided array data match.",
+      "predicted": "checks if the given character is is a a string."
+    },
+    {
+      "id": 2,
+      "reference": "return true if starting at the given index, the given string matches the given substring.",
+      "predicted": "returns true if the given character is is a string.."
+    },
+    {
+      "id": 3,
+      "reference": "convert an array of primitive booleans to objects.",
+      "predicted": "returns a new {"
+    },
+    {
+      "id": 4,
+      "reference": "read a constant_utf8 constant pool entry in the classfilebuffer.",
+      "predicted": "parses a string string string."
+    },
+    {
+      "id": 5,
+      "reference": "trim each element in the given string array and return the resulting array.",
+      "predicted": "returns the next value value in the given value."
+    },
+    {
+      "id": 6,
+      "reference": "remove the doubly circular linked list node.if success return true,otherwise return false.",
+      "predicted": "removes all of of the given given key."
+    },
+    {
+      "id": 7,
+      "reference": "if the match between the url and the pattern occurs, return the match result.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 8,
+      "reference": "check whether a character string is all consist of zero.",
+      "predicted": "returns true if the given character is is a string.."
+    },
+    {
+      "id": 9,
+      "reference": "convert the given boolean array to primitives.",
+      "predicted": "returns a copy of this date-time to to the specified value."
+    },
+    {
+      "id": 10,
+      "reference": "delete characters that exists in the intersection between two character strings of the first character string and return the first character string that is modified.",
+      "predicted": "writes the given key to the the given index."
+    },
+    {
+      "id": 11,
+      "reference": "check whether the existed buckets are the same as the buckets.",
+      "predicted": "checks if the given character is is a string.."
+    },
+    {
+      "id": 12,
+      "reference": "combine the substring before folder_separator of the given path with the given relative path to construct a new full file path, and return the full file path.",
+      "predicted": "extracts the contents of the given {"
+    },
+    {
+      "id": 13,
+      "reference": "read raw varint.",
+      "predicted": "reads the given contents of the given output stream."
+    },
+    {
+      "id": 14,
+      "reference": "convert an ascii encoded character to hex.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 15,
+      "reference": "resolve and return the arguments for the generictype using the type variable information for the targettype.",
+      "predicted": "creates a new instance instance with the specified {"
+    },
+    {
+      "id": 16,
+      "reference": "the type of key has several lower bounds conducted by different function, this function will return a list of the maximum lower bound of each key in the given list.",
+      "predicted": "returns the specified key to the the specified index."
+    },
+    {
+      "id": 17,
+      "reference": "remove this edge from both doubly linked lists of the tree edges.",
+      "predicted": "add a new file to the the provided {"
+    },
+    {
+      "id": 18,
+      "reference": "add the number of lines.",
+      "predicted": "this method is called when the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+    },
+    {
+      "id": 19,
+      "reference": "decode octets to characters with utf-8, append them to the given stringbuilder, and return the index to the next unchecked character.",
+      "predicted": "unit tests the {"
+    },
+    {
+      "id": 20,
+      "reference": "return the intersection between two sets.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 21,
+      "reference": "return the edge connecting the previously returned node with the current node.",
+      "predicted": "returns the size of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+    },
+    {
+      "id": 22,
+      "reference": "return a decision based on the message generated by the event and whether the given string is matched.",
+      "predicted": "executes the given task in the given {"
+    },
+    {
+      "id": 23,
+      "reference": "move the nodes of the given doubly linked list to a new list sequentially.",
+      "predicted": "removes all of of the given given key."
+    },
+    {
+      "id": 24,
+      "reference": "divide a box into two equal boxes on the x axis.",
+      "predicted": "returns the y-coordinate of of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+    },
+    {
+      "id": 25,
+      "reference": "return true if the given string starts with the specified case-insensitive prefix, false otherwise.",
+      "predicted": "checks if the given argument is is a valid value."
+    },
+    {
+      "id": 26,
+      "reference": "convert the given integer array to primitives.",
+      "predicted": "returns a copy of this {"
+    },
+    {
+      "id": 27,
+      "reference": "return true if the subgraph of the given graph induced by the given vertices is a clique, otherwise return false.",
+      "predicted": "returns a string representation of the the given {"
+    },
+    {
+      "id": 28,
+      "reference": "return a string which is consist of the values of elements in the given array.",
+      "predicted": "converts a charsequence of the the given value.."
+    },
+    {
+      "id": 29,
+      "reference": "trim all the characters which are equal to the given character and appear at the beginning of the given string,and return the trimmed string.",
+      "predicted": "returns the number of of the the given array."
+    },
+    {
+      "id": 30,
+      "reference": "encoding the given string by changing '{' and '}' to the specified character for each,return the string after encoding.",
+      "predicted": "parses the string string."
+    },
+    {
+      "id": 31,
+      "reference": "copy bytes from linkedbuffer and return.",
+      "predicted": "reads the next character from the given number of bytes in the given array."
+    },
+    {
+      "id": 32,
+      "reference": "remove the appender by the given name from the list of appenders.",
+      "predicted": "removes the specified key from the database."
+    },
+    {
+      "id": 33,
+      "reference": "return a field tag, and if reach the eof the tag will be zero.",
+      "predicted": "parses the given file from the the given position."
+    },
+    {
+      "id": 34,
+      "reference": "check whether the specified converter exists in converters.",
+      "predicted": "creates a new instance instance with the specified class."
+    },
+    {
+      "id": 35,
+      "reference": "wrap an httpservletrequest with the builder.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 36,
+      "reference": "return true if the length of array1 is the same as the length of array2 or both them are null, otherwise return false.",
+      "predicted": "checks if the given argument is is a valid value."
+    },
+    {
+      "id": 37,
+      "reference": "creates an array of the file type based on all file names in java.class.path and returns the array.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 38,
+      "reference": "convert an array of object bytes to primitives, return null for a null input array.",
+      "predicted": "returns a string representation of this {"
+    },
+    {
+      "id": 39,
+      "reference": "accept the data into the buffer if its id does not exist in the buffer.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 40,
+      "reference": "compute the size of the utf8 string beginning at the specified  index  with the specified length.",
+      "predicted": "returns the number of of the the given number of the given array."
+    },
+    {
+      "id": 41,
+      "reference": "pop different value of type based on the first character of the given descriptor.",
+      "predicted": "writes the given data to the the given output stream."
+    },
+    {
+      "id": 42,
+      "reference": "find a circulator to the node that satisfies the interface predicate.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 43,
+      "reference": "return an array of integer objects which are converted from an array of primitive ints.",
+      "predicted": "reads a string from the the given value."
+    },
+    {
+      "id": 44,
+      "reference": "determines whether a character string ends with a specified suffix.",
+      "predicted": "checks if the given character is is a a string."
+    },
+    {
+      "id": 45,
+      "reference": "obtains the number corresponding to the character c.",
+      "predicted": "returns the size of the the given buffer."
+    },
+    {
+      "id": 46,
+      "reference": "get next vertext from a graph.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 47,
+      "reference": "find the value corresponding to key in props, then perform variable substitution on the found value.",
+      "predicted": "asserts that the given given {"
+    },
+    {
+      "id": 48,
+      "reference": "compute a hash code according to the type.",
+      "predicted": "returns a copy of this {"
+    },
+    {
+      "id": 49,
+      "reference": "trim the end space of the str.",
+      "predicted": "returns the number of of the the given number of the given array."
+    },
+    {
+      "id": 50,
+      "reference": "convert a set representation to a graph path.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 51,
+      "reference": "create the \"lf5\" directory in the documents and settings directory on windows machines, or the user.home variable points on all other platforms.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 52,
+      "reference": "compute the hash code of the whole array, by accumulating the multiplication of each element hash code and the multiplier.",
+      "predicted": "returns the string representation of this {"
+    },
+    {
+      "id": 53,
+      "reference": "the type of key has several upper bounds conducted by different function, this function will return a list of the minimum upper bound of each key in the given list.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 54,
+      "reference": "add the given target channels to the consumetargets.",
+      "predicted": "returns true if the given type is is a a value value."
+    },
+    {
+      "id": 55,
+      "reference": "return the path without the extension.",
+      "predicted": "returns the number of the the given {"
+    },
+    {
+      "id": 56,
+      "reference": "use protobufoutput and the linkedbuffer to write the message into the given outputstream out, and return the message size.",
+      "predicted": "parse a file to the the given file."
+    },
+    {
+      "id": 57,
+      "reference": "if the message does not exist in the dict messages, or it exists but the timestamp (seconds) difference is bigger than 10, put the message and timestamp into messages and return true, otherwise return false.",
+      "predicted": "returns true if the given {"
+    },
+    {
+      "id": 58,
+      "reference": "return the frequencies that the substring appears in the string.",
+      "predicted": "returns the number of of the the given number of the given array."
+    },
+    {
+      "id": 59,
+      "reference": "append a string to a string array.",
+      "predicted": "adds a new {"
+    },
+    {
+      "id": 60,
+      "reference": "format the buffered string with the pattern converter, and return the result.",
+      "predicted": "the entry of the file file."
+    },
+    {
+      "id": 61,
+      "reference": "split time ranges to insure the start time and end time is small than fetch_data_duration.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 62,
+      "reference": "read string from a buffer.",
+      "predicted": "reads the contents of the given output stream."
+    },
+    {
+      "id": 63,
+      "reference": "return the string that contains the content range from offset to limit (when limit is zero,the upper bound will be count-1) and count.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 64,
+      "reference": "add abstracttype to the initializations variable.",
+      "predicted": "creates a new instance instance."
+    },
+    {
+      "id": 65,
+      "reference": "trim the leading whitespaces in a string.",
+      "predicted": "returns the number of of the the given key."
+    },
+    {
+      "id": 66,
+      "reference": "parse the header part starting from the given end position and return the index of the enter sequence.",
+      "predicted": "returns the number of of the the given number of the given given key."
+    },
+    {
+      "id": 67,
+      "reference": "converts a name of the string type to a character array and converts the first letter to an uppercase letter.",
+      "predicted": "returns a new algorithm instance for the the given value."
+    },
+    {
+      "id": 68,
+      "reference": "pop the various value according to the first character of the descriptor.",
+      "predicted": "writes the given data to the the given output stream."
+    },
+    {
+      "id": 69,
+      "reference": "check whether a string is true or false after ignore cases and trim the whitespaces at both ends.",
+      "predicted": "checks if the given type is is a a string."
+    },
+    {
+      "id": 70,
+      "reference": "the given name can be split into several substrings by \".\", and abbreviate the name in the buf by deleting the first count substrings.",
+      "predicted": "draws the specified y-bit integer in the the given value."
+    },
+    {
+      "id": 71,
+      "reference": "put two bytes into a byte vector called data.",
+      "predicted": "returns the number of of the the given array."
+    },
+    {
+      "id": 72,
+      "reference": "return an array of double objects which are converted from an array of primitive doubles.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 73,
+      "reference": "parses out a token until any of the given terminators is encountered and then return the token.",
+      "predicted": "returns the hex string of the the given string."
+    },
+    {
+      "id": 74,
+      "reference": "put the \"content\" from the  jsonobject to the content.",
+      "predicted": "returns a new {"
+    },
+    {
+      "id": 75,
+      "reference": "write bytes of length len from a byte array.",
+      "predicted": "writes the given string to the the given output stream."
+    },
+    {
+      "id": 76,
+      "reference": "return a pair of the list of suffix sum and the sum of all elements of bounds.",
+      "predicted": "returns the number of of the the given key."
+    },
+    {
+      "id": 77,
+      "reference": "check whether the length of the given two byte arrays is the same.",
+      "predicted": "checks if the given argument is is a a string."
+    },
+    {
+      "id": 78,
+      "reference": "append a byte array to a buffer.",
+      "predicted": "writes the given data to the the given position."
+    },
+    {
+      "id": 79,
+      "reference": "check whether str contains elements in searchstrarray.",
+      "predicted": "checks if the given type is is a a given type."
+    },
+    {
+      "id": 80,
+      "reference": "init a currentframe with the given offset, numlocal and numstack, return 3 finally.",
+      "predicted": "( begin auto-generated from pvector__.xmlxml ) sets the the color of the screen.. the the screen.. the the screen.. the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+    },
+    {
+      "id": 81,
+      "reference": "check if the field should be packed,if so,read the field and update the internal state.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 82,
+      "reference": "compute and return an identity automorphism for the given graph.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 83,
+      "reference": "convert a hexadecimal number to binary and return its character type.",
+      "predicted": "returns the number of of the the given number of bytes in the the given key."
+    },
+    {
+      "id": 84,
+      "reference": "return true if the given string has the specified prefix with optional cases which can be ignored, or both string and prefix are null.otherwise return false.",
+      "predicted": "checks if the given argument is is a valid value."
+    },
+    {
+      "id": 85,
+      "reference": "convert an array of primitive shorts to objects.",
+      "predicted": "reads a string value from the given value."
+    },
+    {
+      "id": 86,
+      "reference": "put an array of bytes into this byte vector, enlarge the byte vector automatically if necessary.",
+      "predicted": "writes the given byte array of the given byte array."
+    },
+    {
+      "id": 87,
+      "reference": "return a new array of strings converted from the elements which are not null of the given array, if the size of the array is zero, it will throw an exception.",
+      "predicted": "creates a new instance of the the given value."
+    },
+    {
+      "id": 88,
+      "reference": "resolve the class of the first bound for the typevariable recursively, return unknown.class if it can't be resolved.",
+      "predicted": "creates a new algorithm instance for the the given type.."
+    },
+    {
+      "id": 89,
+      "reference": "select an edge which isn't a circle in the graph,compute the list of the minimal separators in the neighborhood of the edge and put the pair of list and edge into the return list.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 90,
+      "reference": "check whether a character string is a dight.",
+      "predicted": "returns true if the field is is a a string."
+    },
+    {
+      "id": 91,
+      "reference": "split the given string tosplit at the first occurrence of the given delimiter,and return two substrings that don't include the delimiter.",
+      "predicted": "returns the next number of bytes in the the given key."
+    },
+    {
+      "id": 92,
+      "reference": "decode the raw path.",
+      "predicted": "extracts the contents of the given output stream."
+    },
+    {
+      "id": 93,
+      "reference": "copy the given array and add a default value at the end.",
+      "predicted": "returns a new {"
+    },
+    {
+      "id": 94,
+      "reference": "returns the first element in candidates that matches the source.",
+      "predicted": "returns a new {"
+    },
+    {
+      "id": 95,
+      "reference": "follow the daystep to reformat the time bucket with time_bucket_formatter.",
+      "predicted": "converts a datetime-bit integer integer to the the given value."
+    },
+    {
+      "id": 96,
+      "reference": "send a message to each of the connections in telnet-friendly output.",
+      "predicted": "sends the given task to the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+    },
+    {
+      "id": 97,
+      "reference": "if the length of the value string is 0, the default type is returned.",
+      "predicted": "creates a new {"
+    },
+    {
+      "id": 98,
+      "reference": "if the length of the array is 0, return empty_double_array.",
+      "predicted": "returns the next value in the the given value.."
+    }
+  ]
+}
